@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csengőszimulátor Lambda", "Csengőszimulátor Lambda.csproj", "{451A4D03-4A48-4454-8E48-1FD3EE55FFFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{451A4D03-4A48-4454-8E48-1FD3EE55FFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451A4D03-4A48-4454-8E48-1FD3EE55FFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451A4D03-4A48-4454-8E48-1FD3EE55FFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451A4D03-4A48-4454-8E48-1FD3EE55FFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F88FDCF-3BE9-4EE9-BBE8-1727942EF8A8}
+	EndGlobalSection
+EndGlobal
